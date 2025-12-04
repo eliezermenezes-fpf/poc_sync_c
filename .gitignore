@@ -2,5 +2,5 @@
 *.cmake
 sync/play
 sync/client
-*.txt
+sync/*.txt
 *Makefile
