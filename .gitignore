@@ -1,0 +1,6 @@
+*/CMakeFiles/
+*.cmake
+sync/play
+sync/client
+*.txt
+*Makefile
